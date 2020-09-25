@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+
+    <string name="text_name">GreenFlag customers can create an account to access</string>
+
+    <string name="text_point1">Car health updates</string>
+    <string name="text_point2">Request a resque online</string>
+    <string name="text_point3">Policy Information</string>
+
+    <string name="text_bottom">Your Password should have minimum of 8 characters and contains atleast one number. One upper case and one lower case letter.You can use special characters.
+    </string>
+
+
+
+</resources>
